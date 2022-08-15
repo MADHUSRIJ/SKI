@@ -1,0 +1,10 @@
+.navbar{
+    height: 10%;
+    display: inline-block;
+    margin: 10px 20px 10px 20px;
+}
+
+.navbar .navimg img{
+    height: 5%;
+    width: 5%;
+}
